@@ -1,0 +1,218 @@
+body {
+    font-family: 'Arial', sans-serif;
+    color: #333;
+    margin: 0;
+    padding: 0;
+    background-image: url('https://marketplace.canva.com/EAFsX1qBBys/1/0/1600w/canva-fondo-virtual-para-zoom-figuras-abstractas-org%C3%A1nico-rosa-NmcFlhJ1GXY.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+header {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 1em;
+}
+
+
+header h1 {
+    font-size: 280%;
+    margin: 0;
+    color: #ffebb5;
+}
+
+header nav {
+    text-align: center;
+    margin-top: 10px;
+}
+
+header nav a {
+    text-decoration: none;
+    color: #ffebb5;
+    margin: 0 10px;
+    padding: 5px 10px;
+    border-radius: 5px;
+    background-color: #4e4e4e;
+}
+
+header nav a:hover {
+    background-color: #ffebb5;
+    color: #4e4e4e;
+}
+
+section {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 2px solid #ddd;
+    box-shadow: 2px 2px 5px #aaa;
+    border-radius: 10px;
+    background-color: rgba(255, 255, 255, 0.8);
+    text-align: center;
+    margin-top: 20px;
+}
+
+section h2 {
+    color: #cca845;
+    border-bottom: 2px solid #D2B48C;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+}
+
+section#bienvenida {
+    background-color: #ffebb5;
+    color: white;
+    text-align: center;
+    padding: 2em 0;
+}
+
+.bienvenida-container {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+section#bienvenida h1,
+section#bienvenida p {
+    color: white;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7); /* Añadido para resaltar el texto con sombra */
+}
+
+section#bienvenida h1 {
+    font-size: 2.5em;
+    margin-bottom: 0.5em;
+    outline: 2px solid black; /* Contorno negro */
+    display: inline-block; /* Asegura que el contorno rodee el texto correctamente */
+    padding: 10px; /* Espaciado dentro del contorno */
+}
+
+section#bienvenida p {
+    font-size: 1.2em;
+}
+
+section#identificacion {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 2px solid #ddd;
+    box-shadow: 2px 2px 5px #aaa;
+    border-radius: 10px;
+    background-color: rgba(255, 255, 255, 0.8);
+    margin-top: 20px;
+}
+
+section#contacto h2 {
+    border-bottom: 2px solid #D2B48C;
+}
+
+section#proyectos {
+    text-align: center;
+}
+
+section#proyectos h2 {
+    margin-bottom: 20px;
+}
+
+section#proyectos ul li {
+    position: relative;
+    text-align: center;
+}
+
+section#proyectos ul li strong {
+    display: block;
+    margin-bottom: 10px;
+}
+
+section#proyectos ul li img {
+    width: 300px;
+    height: auto;
+    margin: 0 auto; 
+}
+
+
+section {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 2px solid #ddd;
+    box-shadow: 2px 2px 5px #aaa;
+    border-radius: 10px;
+    background-color: rgba(255, 255, 255, 0.8);
+}
+
+section#proyectos ul li {
+    position: relative;
+    text-align: center;
+}
+
+section#proyectos ul li strong {
+    display: block;
+    margin-bottom: 10px;
+}
+
+section#proyectos ul li img {
+    width: 300px;
+    height: auto;
+    margin: 0 auto;
+}
+
+section#proyectos img.proyecto-img {
+    width: 300px;
+    height: auto;
+    display: block;
+    margin: 10px auto;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    background-color: #f8f8f8;
+    margin-bottom: 5px;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+section#colaboradores {
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 20px;
+    border: 2px solid #ddd;
+    box-shadow: 2px 2px 5px #aaa;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+
+section#colaboradores img.colaborador-img {
+    width: 300px;
+    height: auto;
+    display: block;
+    margin: 10px auto;
+}
+
+section#filosofia {
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 20px;
+    border: 2px solid #ddd;
+    box-shadow: 2px 2px 5px #aaa;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+
+section#contacto {
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 20px;
+    border: 2px solid #ddd;
+    box-shadow: 2px 2px 5px #aaa;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+
+img {
+    max-width: 100%;
+    height:
